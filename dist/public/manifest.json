@@ -1,0 +1,33 @@
+{
+  "name": "Muslim Compatibility Checker",
+  "short_name": "MuslimCompat",
+  "description": "Find your spiritual connection through Islamic numerology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#2c3e50",
+  "theme_color": "#2c3e50",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgdmlld0JveD0iMCAwIDE5MiAxOTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiBmaWxsPSIjMmMzZTUwIi8+CjxwYXRoIGQ9Ik05NiA0OEM4NC45NTQzIDQ4IDc2IDU2Ljk1NDMgNzYgNjhDNzYgNzkuMDQ1NyA4NC45NTQzIDg4IDk2IDg4QzEwNy4wNDYgODggMTE2IDc5LjA0NTcgMTE2IDY4QzExNiA1Ni45NTQzIDEwNy4wNDYgNDggOTYgNDhaIiBmaWxsPSIjZjFjNDBmIi8+CjxwYXRoIGQ9Ik05NiAxMTJDODQuOTU0MyAxMTIgNzYgMTIwLjk1NCA3NiAxMzJDNzYgMTQzLjA0NiA4NC45NTQzIDE1MiA5NiAxNTJDMTA3LjA0NiAxNTIgMTE2IDE0My4wNDYgMTE2IDEzMkMxMTYgMTIwLjk1NCAxMDcuMDQ2IDExMiA5NiAxMTJaIiBmaWxsPSIjZjFjNDBmIi8+Cjwvc3ZnPgo=",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiBmaWxsPSIjMmMzZTUwIi8+CjxwYXRoIGQ9Ik0yNTYgMTI4QzIyNy4yIDEyOCAyMDQgMTUxLjIgMjA0IDE4MEMyMDQgMjA4LjggMjI3LjIgMjMyIDI1NiAyMzJDMjg0LjggMjMyIDMwOCAyMDguOCAzMDggMTgwQzMwOCAxNTEuMiAyODQuOCAxMjggMjU2IDEyOFoiIGZpbGw9IiNmMWM0MGYiLz4KPHA
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["lifestyle", "personalization"],
+  "screenshots": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzc1IiBoZWlnaHQ9IjgxMiIgdmlld0JveD0iMCAwIDM3NSA4MTIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHdpZHRoPSIzNzUiIGhlaWdodD0iODEyIiBmaWxsPSIjMmMzZTUwIi8+Cjwvc3ZnPgo=",
+      "sizes": "375x812",
+      "type": "image/svg+xml",
+      "form_factor": "narrow"
+    }
+  ]
+}
